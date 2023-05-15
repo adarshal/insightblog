@@ -10839,7 +10839,8 @@ aside li{
 }
 @media (max-width: 1000px) {
   .article-container {
-    margin-left: -50px;
-    color: red;
+    margin-left: -5rem;
+    /* color: red; */
+    width: 70%;
   }
 }
